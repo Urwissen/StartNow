@@ -1,7 +1,7 @@
 # Berufsorientierung: IT-Jobübersicht
 Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
-## IT-Support
+## 🎙️ IT-Support
 
 Eine Rolle im IT-Bereich, die für die Unterstützung von Benutzern bei technischen Problemen zuständig ist.
 
@@ -23,7 +23,7 @@ IT-Support-Spezialisten helfen bei der Fehlerbehebung, Installation von Software
 
 ---
 
-## Frontend-Entwickler
+## 🖼️ Frontend-Entwickler
 
 Eine Rolle im IT-Bereich, die sich auf die Entwicklung der sichtbaren und interaktiven Teile einer Webseite oder Webanwendung konzentriert.
 
@@ -45,7 +45,7 @@ Frontend-Entwickler arbeiten mit HTML, CSS und JavaScript, um ansprechende Benut
 
 ---
 
-## Backend-Entwickler
+## 🤖 Backend-Entwickler
 
 Eine Rolle im IT-Bereich, die sich auf die Entwicklung der serverseitigen Logik und Datenverarbeitung einer Webseite oder Webanwendung konzentriert.
 
@@ -66,7 +66,7 @@ Backend-Entwickler arbeiten mit verschiedenen Programmiersprachen und Technologi
 
 ---
 
-## Fullstack-Entwickler
+## 🦄 Fullstack-Entwickler
 
 Eine Rolle im IT-Bereich, die sowohl Frontend- als auch Backend-Entwicklung kombiniert.
 
@@ -89,7 +89,7 @@ Fullstack-Entwickler arbeiten sowohl mit Frontend- als auch Backend-Technologien
 
 ---
 
-## UI/UX-Designer
+## 👩‍🎨 UI/UX-Designer
 
 Eine Rolle im IT-Bereich, die sich auf die Gestaltung von Benutzeroberflächen und Benutzererfahrungen konzentriert.
 
@@ -111,7 +111,7 @@ UI/UX-Designer erstellen wireframes, Prototypen und gestalten das visuelle Ersch
 
 ---
 
-## Scrum Master
+## 🏉 Scrum Master
 
 Eine Rolle im IT-Bereich, die für die Umsetzung der agilen Projektmanagement-Methode Scrum verantwortlich ist.
 
@@ -133,7 +133,7 @@ Scrum Master unterstützen das Team bei der Einhaltung der Scrum-Prinzipien, org
 
 ---
 
-## Datenbank-Administrator
+## 💽 Datenbank-Administrator
 
 Eine Rolle im IT-Bereich, die für das Design, die Implementierung und Wartung von Datenbanken verantwortlich ist.
 
@@ -155,7 +155,7 @@ Datenbank-Administratoren verwalten und optimieren Datenbanken, stellen Datenint
 
 ---
 
-## Cloud-Administrator
+## ☁️ Cloud-Administrator
 
 Eine Rolle im IT-Bereich, die für die Verwaltung, Konfiguration und Überwachung von Cloud-Infrastrukturen zuständig ist.
 
@@ -177,7 +177,7 @@ Cloud-Administratoren richten Cloud-Plattformen ein, verwalten Benutzerkonten un
 
 ---
 
-## Cloud-Entwickler
+## ⛈ Cloud-Entwickler
 
 Eine Rolle im IT-Bereich, die sich auf die Entwicklung von Anwendungen und Lösungen für Cloud-Plattformen konzentriert.
 
@@ -199,7 +199,7 @@ Cloud-Entwickler erstellen und implementieren Cloud-native Anwendungen, konfigur
 
 ---
 
-## Cyberspezialist
+## 🛡️ Cyberspezialist
 
 Eine Rolle im IT-Bereich, die für die Sicherheit und den Schutz von Computersystemen und Netzwerken zuständig ist.
 
