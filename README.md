@@ -12,14 +12,14 @@ IT-Support-Spezialisten helfen bei der Fehlerbehebung, Installation von Software
 ### Kostenfreie Lernressourcen
 
 - [Codecademy](https://www.codecademy.com/)
-- [Stack Overflow](https://stackoverflow.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 - [GitHub](https://github.com/)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [CompTIA A+](https://www.comptia.org/certifications/a)
 - [ITIL Foundation](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
-- [Microsoft Certified: Modern Desktop Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/modern-desktop-administrator-associate/)
+- [Google IT-Support](https://www.coursera.org/professional-certificates/google-it-support)
 
 ---
 
@@ -34,14 +34,14 @@ Frontend-Entwickler arbeiten mit HTML, CSS und JavaScript, um ansprechende Benut
 ### Kostenfreie Lernressourcen
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [CodePen](https://codepen.io/)
+- [Codecademy](https://www.codecademy.com/)
+- [Scrimba HTML&CSS]([https://developer.mozilla.org/](https://scrimba.com/learn/htmlandcss))
+- [Scrimba JavaScript](https://scrimba.com/learn/learnjavascript)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [Certified Front End Developer](https://www.w3schools.com/cert/cert_frontend.asp)
 - [Google Web Developer Certification](https://developers.google.com/certification/web-developer)
-- [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 
 ---
 
@@ -55,14 +55,13 @@ Backend-Entwickler arbeiten mit verschiedenen Programmiersprachen und Technologi
 
 ### Kostenfreie Lernressourcen
 
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [Node.js YouTube](https://youtu.be/f2EqECiTBL8)
+- [Java YouTube](https://youtu.be/A74TOX803D0)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
-- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
-- [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 - [Oracle Certified Professional: Java SE Developer](https://education.oracle.com/java-se-programmer-i/pexam_1Z0-815)
 
 ---
@@ -79,13 +78,12 @@ Fullstack-Entwickler arbeiten sowohl mit Frontend- als auch Backend-Technologien
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Fullstackopen](https://fullstackopen.com/)
-- [FreeCodeCamp Full Stack Developer Certification](https://www.freecodecamp.org/learn)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
-- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
-- [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
-- [Google Cloud Certified - Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
+- 🤷‍♂️
 
 ---
 
@@ -103,7 +101,7 @@ UI/UX-Designer erstellen wireframes, Prototypen und gestalten das visuelle Ersch
 - [Coursera: UI/UX Design-Kurse](https://www.coursera.org/courses?query=ui%20ux%20design)
 - [Adobe XD Tutorials](https://www.adobe.com/products/xd/learn/tutorials.html)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [Certified Professional in UX Design (CPUX)](https://uxqb.org/cpux/)
 - [Certified User Experience Designer (CUXD)](https://www.bcs.org/get-qualified/certifications-for-professionals/user-experience-certification-cuxd/)
@@ -215,6 +213,7 @@ Cyberspezialisten identifizieren und beheben Sicherheitslücken, implementieren 
 
 ### Top 3 Zertifizierungen
 
+- [Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/cc)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
