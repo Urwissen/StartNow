@@ -1,8 +1,4 @@
-# StartNow
-This is a collection of resources to start a role in IT
-
-# IT-Jobübersicht
-
+# Berufsorientierung: IT-Jobübersicht
 Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
 ## IT-Support
