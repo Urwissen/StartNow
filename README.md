@@ -83,7 +83,9 @@ Fullstack-Entwickler arbeiten sowohl mit Frontend- als auch Backend-Technologien
 
 ### Top Zertifizierungen
 
-- 🤷‍♂️
+- [Certified Front End Developer](https://www.w3schools.com/cert/cert_frontend.asp)
+- [Google Web Developer Certification](https://developers.google.com/certification/web-developer)
+- [Oracle Certified Professional: Java SE Developer](https://education.oracle.com/java-se-programmer-i/pexam_1Z0-815)
 
 ---
 
@@ -123,7 +125,7 @@ Scrum Master unterstützen das Team bei der Einhaltung der Scrum-Prinzipien, org
 - [Scrum Alliance](https://www.scrumalliance.org/)
 - [Agile Manifesto](https://agilemanifesto.org/)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [Professional Scrum Master I (PSM I)](https://www.scrum.org/professional-scrum-master-i-certification)
 - [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified/certified-scrummaster-track/certified-scrummaster)
@@ -145,7 +147,7 @@ Datenbank-Administratoren verwalten und optimieren Datenbanken, stellen Datenint
 - [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
 - [Oracle Learning Library](https://www.oracle.com/corporate/learning/library.html)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [Oracle Certified Professional: Database Administrator](https://education.oracle.com/oracle-database-administrator-certified-professional/overview/dp/45)
 - [Microsoft Certified: Azure Database Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator/)
@@ -167,7 +169,7 @@ Cloud-Administratoren richten Cloud-Plattformen ein, verwalten Benutzerkonten un
 - [Microsoft Learn: Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [Google Cloud Training](https://cloud.google.com/training)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 - [Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
@@ -189,7 +191,7 @@ Cloud-Entwickler erstellen und implementieren Cloud-native Anwendungen, konfigur
 - [Microsoft Learn: Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [Google Cloud Training](https://cloud.google.com/training)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 - [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
@@ -211,7 +213,7 @@ Cyberspezialisten identifizieren und beheben Sicherheitslücken, implementieren 
 - [Open Security Training](http://opensecuritytraining.info/)
 - [SANS Cyber Aces Online](https://www.cyberaces.org/)
 
-### Top 3 Zertifizierungen
+### Top Zertifizierungen
 
 - [Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/cc)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
