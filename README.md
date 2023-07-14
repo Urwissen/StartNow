@@ -1,4 +1,4 @@
-# Berufsorientierung: IT-Jobübersicht
+# Berufsorientierung IT:
 Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
 
