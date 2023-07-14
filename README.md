@@ -1,6 +1,10 @@
 # Berufsorientierung: IT-Jobübersicht
 Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
+
+**Direkt am Handy das Programmieren lernen? [Klicke Hier](https://mimo.org)**
+
+
 ## 🎙️ IT-Support
 
 Eine Rolle im IT-Bereich, die für die Unterstützung von Benutzern bei technischen Problemen zuständig ist.
