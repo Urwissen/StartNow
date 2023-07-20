@@ -39,7 +39,7 @@ Frontend-Entwickler arbeiten mit HTML, CSS und JavaScript, um ansprechende Benut
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
-- [Scrimba HTML&CSS]([https://developer.mozilla.org/](https://scrimba.com/learn/htmlandcss))
+- [Scrimba HTML&CSS](https://scrimba.com/learn/htmlandcss)
 - [Scrimba JavaScript](https://scrimba.com/learn/learnjavascript)
 
 ### Top Zertifizierungen
