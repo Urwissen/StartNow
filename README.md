@@ -2,7 +2,7 @@
 Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
 
-**Direkt am Handy das Programmieren lernen? [Klicke Hier](https://mimo.org)**
+**Direkt am Handy das Programmieren lernen? [Starte mit MIMO](https://mimo.org)**
 
 
 ## 🎙️ IT-Support
