@@ -4,6 +4,8 @@ Eine Übersicht über verschiedene IT-Jobs und deren Alltag.
 
 **Direkt am Handy das Programmieren lernen? [Starte mit MIMO](https://mimo.org)**
 
+**Lerne Programmieren auf Deutsch [OpenHPI - Programmieren lernen mit python](https://open.hpi.de/courses/pythonjunior2023)**
+
 
 ## 🎙️ IT-Support
 
