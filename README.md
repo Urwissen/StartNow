@@ -216,6 +216,7 @@ Cyberspezialisten identifizieren und beheben Sicherheitslücken, implementieren 
 - [Cybrary](https://www.cybrary.it/)
 - [Open Security Training](http://opensecuritytraining.info/)
 - [SANS Cyber Aces Online](https://www.cyberaces.org/)
+- [HackTheBox](https://www.hackthebox.com)
 
 ### Top Zertifizierungen
 
